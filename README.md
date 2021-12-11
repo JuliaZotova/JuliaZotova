@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Julia Zotova
+- 👀 I’m interested in QA, JavaScript and frontend-development.
+- 🌱 I’m currently learning QA.
+- 💞️ I’m looking for opportunities to work as a trainee or junior QA.
